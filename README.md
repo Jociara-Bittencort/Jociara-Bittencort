@@ -1,6 +1,4 @@
-
-<img align="center" style="margin-bottom:100px" width=100% 
- src="https://github.com/Jociara-Bittencort/Jociara-Bittencort/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" width="100%" src="imagem hi.png" style="max-width: 100%;">
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ solve great challenges using tech. <br><br> From frontend development using HTML, CSS, JavaScript e React. I am <strong> passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong> studant Front-end beginner-level developer </strong> focused on web development.</p>&nbsp;
