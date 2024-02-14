@@ -3,12 +3,7 @@
 
 <p align="center">I ❤️ solve challenges using technology. <br><br> From Mobile development using JAVA e Kotlin. I am <strong> passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong> studant Mobile beginner-level developer </strong> focused on mobile development.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?
- user=Jociara-Bittencort&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-jociara-bittencort.vercel.app/api/top-langs/?
- username=Jociara-Bittencort&show_icons=true&theme=radical&layout=compact" />
- </div>
+![Kotlin](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
  
  &nbsp;
  &nbsp;
